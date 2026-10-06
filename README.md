@@ -175,7 +175,7 @@ streamlit run app.py
 
 **TURAGA VIJAYAAKASH**
 AI & ML Enthusiast
-pre-final year student
+Final year student
 
 ---
 
